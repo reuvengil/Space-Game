@@ -1,0 +1,16 @@
+body {
+  background-image: url("../images/bg-main.jpg");
+  background-size: cover;
+}
+#root h1 {
+  font-family: Stencil Std, fantasy;
+  letter-spacing: 0.5rem;
+}
+#root h6 {
+  font-family: Bradley Hand, cursive;
+}
+#root button {
+  font-family: Andale Mono, monospace;
+  margin-top: 20px;
+  width: 120px;
+}
